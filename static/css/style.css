@@ -2,7 +2,7 @@ html, body {
   margin: 0;
   padding-top: 1%;
   align-content: center;
-  background-color: #000000;
+  background-color: #06074A;
 }
 canvas {
   display: block;
@@ -131,7 +131,7 @@ input{
   color: #ffffff;
   background-color: #ff0000;
   border-radius: 15px;
-  border: 5px double #0004ff;
+  border: 12px double #0004ff;
 }
 .boton_1:hover{
   opacity: 0.6;
