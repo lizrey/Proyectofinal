@@ -1,0 +1,139 @@
+html, body {
+  margin: 0;
+  padding-top: 1%;
+  align-content: center;
+  background-color: #000000;
+}
+canvas {
+  display: block;
+}
+h1 {
+	font-size: 36px;
+  font-weight: 400;
+  text-align: center;
+  align-content: center;
+  color: #ffffff;
+}
+
+h2 {
+	font-size: 25px;
+  font-weight: 400;
+  margin-bottom: 0px;
+  margin-top: 1%;
+  text-align: center;
+  align-content: center;
+  color: #ffffff;
+}
+
+h3 {
+	font-size: 22px;
+	font-weight: 400;
+  margin-bottom: 0;
+  margin-top: 0;
+  margin-left: 1%;
+  text-align: left;
+  align-content: center;
+  color: #ffffff;
+}
+
+.Titulo1{
+  border: 2px solid #ffffff;
+  border-radius: 20px;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+.Cuadro1{
+  border: 4px double #880202;
+  border-radius: 20px;
+  margin-left: 10% ;
+  width: 33.3%;
+  float: left;
+  text-align: center;
+  
+}
+.Cuadro2{
+  border: 4px double#0004ff;
+  border-radius: 20px;
+  width: 33.3%;
+  margin-right: 10%;
+  float: right;
+  text-align: center;
+}
+.Cuadro3{
+  width: 3.5%;
+  margin-left: 48.5%;
+  float: center;
+  text-align: center;
+}
+
+.Titulo h1 {
+	font-size: 36px;
+  font-weight: 400;
+  margin-bottom: 0px;
+  text-align: center;
+  align-content: center;
+  color: #ffffff;
+}
+
+.Titulo h2 {
+	font-size: 25px;
+  font-weight: 400;
+  padding-top: 0%;
+  margin-bottom: 0px;
+  text-align: center;
+  align-content: center;
+  color: #ffffff;
+}
+.Titulo h3 {
+	font-size: 20px;
+	font-weight: 400;
+  margin-bottom: 0px;
+  text-align: center;
+  align-content: center;
+  color: #ffffff;
+}
+.Titulo imagen{
+  float:left;
+  padding-left: 8%;
+  align-content: flex-start;
+  
+}
+.Titulo imagen1{
+  float: right;
+  padding-right: 8%;
+  align-content: flex-start;
+}
+
+input{
+  
+  border-radius: 20px;
+  width: 75%;
+	margin-bottom: 20px;
+	height: 52px;
+	font-size: 18px;
+	line-height: 52px;
+	text-align: center;
+  border: 4px double #0004ff;
+  background-color:#000000;
+  color: #ffff;
+  
+}
+.boton_1{
+  text-decoration: none;
+  padding: 1%;
+  width: 30%;
+  padding-left: 1%;
+  padding-right: 1%;
+  margin-bottom: 2%;
+  font-weight: 300;
+  font-size: 15px;
+  color: #ffffff;
+  background-color: #ff0000;
+  border-radius: 15px;
+  border: 5px double #0004ff;
+}
+.boton_1:hover{
+  opacity: 0.6;
+  text-decoration: none;
+}
